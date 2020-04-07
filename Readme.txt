@@ -28,10 +28,9 @@ Still a lot to learn and will expand a lot more in Version 2/3/4/etc. as my unde
 ***Any feedback welcome in terms of streamlining the script***
 
 
-Disclaimer: This is not a finalised version of calculating Income Tax and there is a lot more complexity to the matter,if by chance you need help with income tax in South Africa,
-please contact a a relevant specialist to assist and DO NOT use this software for that purpose!!!!
+Disclaimer: This is not a finalised version of calculating Income Tax and there is a lot more complexity to the matter,if by chance you need help with income tax in South Africa, please contact a a relevant specialist to assist and DO NOT use this software for that purpose!!!!
 
-*********************************************************************************************************************************************************************
+****************************************************************************************************************************************
 Please note I am not a CS major/IT specialist so my knowledge of memory management/Version Control/Good practice or any other development conventions is non-existant,
 this software purely written with the purpose of learning a new skill at this stage.
 
